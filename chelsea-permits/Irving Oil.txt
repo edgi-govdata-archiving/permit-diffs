@@ -11809,11 +11809,7 @@ Parameter
 Page 91 of 93
 
 Calculation of Reasonable Potential
-EPA first calculated the upper bound of expected effluent concentrations for each parameter. EPA then used the calculated upper
-bound of expected effluent concentrations, the permitted daily maximum effluent flow and the dilution factor to project the in-stream
-concentration downstream from the discharge. When this resultant in-stream concentration (C) exceeds the applicable criterion, there
-is reasonable potential for the discharge to cause, or contribute to an excursion above water quality standards. The results are
-summarized in the table below.
+EPA first calculated the upper bound of expected effluent concentrations for each parameter. EPA then used the calculated upper bound of expected effluent concentrations, the permitted daily maximum effluent flow and the dilution factor to project the in-stream concentration downstream from the discharge. When this resultant in-stream concentration (C) exceeds the applicable criterion, there is reasonable potential for the discharge to cause, or contribute to an excursion above water quality standards. The results are summarized in the table below.
 
 Summary of Reasonable Potential Results
 Acute
@@ -11882,9 +11878,7 @@ Acute Criteria
 
 Ammonia (warm water), and copper have reasonable potential to cause or contribute to excursions above water quality standards.
 Calculation of Effluent Limitations
-EPA calculated the effluent limitations for ammonia (warm), total recoverable copper, and total recoverable zinc by setting the
-maximum allowable effluent concentration equal to the applicable criterion, adjusted for available dilution. The results are
-summarized in the table below.
+EPA calculated the effluent limitations for ammonia (warm), total recoverable copper, and total recoverable zinc by setting the maximum allowable effluent concentration equal to the applicable criterion, adjusted for available dilution. The results are summarized in the table below.
 
 NPDES Permit No. MA0001929
 
@@ -11917,9 +11911,7 @@ Limitation
 1.8
 5.8
 
-Note that when the effluent limitation is calculated to be lower than the applicable criterion, then the effluent limitation is set equal to
-the criterion. Because regulations at 40 CFR § 122.45(c) require, with limited exceptions, that effluent limits for metals in NPDES
-permits be expressed as total recoverable metals, effluent limitations are expressed as total recoverable metals. See EPA-823-B96-007,
+Note that when the effluent limitation is calculated to be lower than the applicable criterion, then the effluent limitation is set equal to the criterion. Because regulations at 40 CFR § 122.45(c) require, with limited exceptions, that effluent limits for metals in NPDES permits be expressed as total recoverable metals, effluent limitations are expressed as total recoverable metals. See EPA-823-B96-007,
 The Metals Translator: Guidance for Calculating a Total Recoverable Permit Limit from a Dissolved Criterion:1996.
 
 NPDES Permit No. MA0001929
@@ -12056,20 +12048,8 @@ Revere, MA 02151
 RECEIVING WATERS: Chelsea River and Sales Creek
 RECEIVING WATERS CLASSIFICATION: Class SB (Chelsea River) and SA (Sales Creek)
 PREPARATION OF THE DRAFT PERMITS AND EPA REQUEST FOR CWA § 401 CERTIFICATION:
-EPA is issuing for public notice and comment Draft NPDES Permits for the above-identified facilities,
-which discharge some combination of treated stormwater, hydrostatic test water, groundwater, boiler
-blowdown/condensate, and/or other allowable non-stormwater sources. The effluent limits and permit
-conditions imposed have been drafted pursuant to, and assure compliance with, the CWA, including EPAapproved State Surface Water Quality Standards at 314 CMR 4.00. MassDEP cooperated with EPA in the
-development of the Draft NPDES Permits. MassDEP retains independent authority under State law to issue
-separate Surface Water Discharge Permits for the discharges, not the subject of this notice, under the
-Massachusetts Clean Waters Act, M.G.L. c. 21, §§ 26-53.
-In addition, EPA has requested that MassDEP grant certification of the Draft Permits pursuant to Section
-401 of the CWA and implementing regulations. Under federal regulations governing the NPDES program at
-40 Code of Federal Regulations (CFR) § 124.53(e), state certification shall contain conditions that are
-necessary to assure compliance with the applicable provisions of CWA sections 208(e), 301, 302, 303, 306,
-and 307 and with appropriate requirements of State law, including any conditions more stringent than those
-in the Draft Permits that MassDEP finds necessary to meet these requirements. In addition, MassDEP may
-provide a statement of the extent to which each condition of a Draft Permit can be made less stringent
+EPA is issuing for public notice and comment Draft NPDES Permits for the above-identified facilities, which discharge some combination of treated stormwater, hydrostatic test water, groundwater, boiler blowdown/condensate, and/or other allowable non-stormwater sources. The effluent limits and permit conditions imposed have been drafted pursuant to, and assure compliance with, the CWA, including EPAapproved State Surface Water Quality Standards at 314 CMR 4.00. MassDEP cooperated with EPA in the development of the Draft NPDES Permits. MassDEP retains independent authority under State law to issue separate Surface Water Discharge Permits for the discharges, not the subject of this notice, under the Massachusetts Clean Waters Act, M.G.L. c. 21, §§ 26-53.
+In addition, EPA has requested that MassDEP grant certification of the Draft Permits pursuant to Section 401 of the CWA and implementing regulations. Under federal regulations governing the NPDES program at 40 Code of Federal Regulations (CFR) § 124.53(e), state certification shall contain conditions that are necessary to assure compliance with the applicable provisions of CWA sections 208(e), 301, 302, 303, 306, and 307 and with appropriate requirements of State law, including any conditions more stringent than those in the Draft Permits that MassDEP finds necessary to meet these requirements. In addition, MassDEP may provide a statement of the extent to which each condition of a Draft Permit can be made less stringent
 without violating the requirements of State law.
 INFORMATION ABOUT THE DRAFT PERMITS:
 The Draft Permits and explanatory Fact Sheets may be obtained at no cost at
@@ -12082,26 +12062,12 @@ U.S. Environmental Protection Agency – Region 1
 Boston, MA 02109-3912
 Telephone: (617) 918-1989
 Little.Shauna@epa.gov
-Following U.S. Centers for Disease Control and Prevention (CDC) and U.S. Office of Personnel
-Management (OPM) guidance and specific state guidelines impacting our regional offices, EPA’s workforce
-has been encouraged to telework to help prevent transmission of the coronavirus. While in this workforce
-telework status, there are practical limitations on the ability of Agency personnel to allow the public to
-review the administrative record in person at the EPA Boston office. However, any electronically available
-documents that are part of the administrative record can be requested from the EPA contact above.
+Following U.S. Centers for Disease Control and Prevention (CDC) and U.S. Office of Personnel Management (OPM) guidance and specific state guidelines impacting our regional offices, EPA’s workforce has been encouraged to telework to help prevent transmission of the coronavirus. While in this workforce telework status, there are practical limitations on the ability of Agency personnel to allow the public to review the administrative record in person at the EPA Boston office. However, any electronically available documents that are part of the administrative record can be requested from the EPA contact above.
 PUBLIC COMMENT PERIOD:
-All persons, including applicants, who believe any condition of any of the Draft Permits is inappropriate
-must raise all reasonably ascertainable issues and submit all reasonably available arguments supporting their
-position by April 11, 2021, which is the close of the public comment period. Comments, including those
-pertaining to EPA’s request for CWA § 401 certification, should be submitted to the EPA contact at the
-address or email listed above. Upon the close of the public comment period, EPA will make all comments
-available to MassDEP. In reaching final decisions on the Draft Permits the Regional Administrator will
-respond to all significant comments and make the responses available to the public.
-Due to the COVID-19 National Emergency, if comments are submitted in hard copy form, please also email
-a copy to the EPA contact above.
+All persons, including applicants, who believe any condition of any of the Draft Permits is inappropriate must raise all reasonably ascertainable issues and submit all reasonably available arguments supporting their position by April 11, 2021, which is the close of the public comment period. Comments, including those pertaining to EPA’s request for CWA § 401 certification, should be submitted to the EPA contact at the address or email listed above. Upon the close of the public comment period, EPA will make all comments available to MassDEP. In reaching final decisions on the Draft Permits the Regional Administrator will respond to all significant comments and make the responses available to the public.
+Due to the COVID-19 National Emergency, if comments are submitted in hard copy form, please also email a copy to the EPA contact above.
 PUBLIC MEETING AND PUBLIC HEARING:
-The Regional Administrator has determined, pursuant to 40 CFR §124.12, that a significant degree of
-public interest exists in the proposed permits and that a public hearing should be held in Chelsea,
-Massachusetts to consider the permits. This notice serves to announce that a public hearing will be held.
+The Regional Administrator has determined, pursuant to 40 CFR §124.12, that a significant degree of public interest exists in the proposed permits and that a public hearing should be held in Chelsea, Massachusetts to consider the permits. This notice serves to announce that a public hearing will be held.
 A public meeting and public hearing will be held on the following dates and times:
 Public Informational Meeting:
 DATE:
@@ -12116,28 +12082,17 @@ TIME:
 7:00pm
 LOCATION: Virtual Meeting Information will be provided on EPA’s website, noted above
 The following is a summary of the procedures that will be followed at the public informational meeting:
-a. The Presiding Chairperson will have the authority to open and conclude the meeting and to
-maintain order.
-b. EPA will make a short presentation describing the NPDES permit process and the draft permit
-
-conditions, and then accept clarifying questions from the audience.
+a. The Presiding Chairperson will have the authority to open and conclude the meeting and to maintain order.
+b. EPA will make a short presentation describing the NPDES permit process and the draft permit conditions, and then accept clarifying questions from the audience.
 c. Formal oral comments concerning the draft permits will not be accepted at the public meeting.
 Formal oral comments will be accepted at the subsequent public hearing.
 The following is a summary of the procedures that will be followed at the public hearing:
-a. The Presiding Chairperson will have the authority to open and conclude the hearing and to
-maintain order.
-b. Any person appearing at such a hearing may submit oral or written statements concerning the
-draft permit.
+a. The Presiding Chairperson will have the authority to open and conclude the hearing and to maintain order.
+b. Any person appearing at such a hearing may submit oral or written statements concerning the draft permit.
 ENVIRONMENTAL JUSTICE ANALYSIS:
-EPA and MassDEP cooperated in development of an Environmental Justice Analysis (EJA) for the
-NPDES permitting actions for these facilities in Chelsea, East Boston and Revere. EPA is accepting
-comments on the EJA during the same time period as accepting comments on the draft permits. All
-persons wishing to submit comments on the EJA must submit comments as noted above, with an
-indication that the comment(s) pertain to the EJA.
+EPA and MassDEP cooperated in development of an Environmental Justice Analysis (EJA) for the NPDES permitting actions for these facilities in Chelsea, East Boston and Revere. EPA is accepting comments on the EJA during the same time period as accepting comments on the draft permits. All persons wishing to submit comments on the EJA must submit comments as noted above, with an indication that the comment(s) pertain to the EJA.
 FINAL PERMIT DECISION:
-Following the close of the comment period, and after the public hearing the Regional Administrator will
-issue final permit decisions and notify the applicants and each person who has submitted written comments
-or requested notice.
+Following the close of the comment period, and after the public hearing the Regional Administrator will issue final permit decisions and notify the applicants and each person who has submitted written comment  or requested notice.
 KEN MORAFF, DIRECTOR
 WATER DIVISION
 UNITED STATES ENVIRONMENTAL
@@ -12147,5 +12102,3 @@ LEALDON LANGLEY, DIRECTOR
 DIVISION OF WATERSHED MGMT
 MASSACHUSETTS DEPARTMENT OF
 ENVIRONMENTAL PROTECTION
-
-
